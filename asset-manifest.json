@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.58b67068.css",
+    "main.js": "/portfolio/static/js/main.7bd9cb94.js",
+    "static/js/787.cda612ba.chunk.js": "/portfolio/static/js/787.cda612ba.chunk.js",
+    "static/media/photo.png": "/portfolio/static/media/photo.9ac81c20e24bc609456c.png",
+    "static/media/game.png": "/portfolio/static/media/game.3bd454026771b357618d.png",
+    "static/media/food.png": "/portfolio/static/media/food.86a7591e92718c91f9c9.png",
+    "static/media/loadng.png": "/portfolio/static/media/loadng.6e00d1c56eead515d666.png",
+    "static/media/lightNG.png": "/portfolio/static/media/lightNG.069a653665cc760f42a2.png",
+    "static/media/abc.svg": "/portfolio/static/media/abc.a63553d5d9270847f205cb97b9193407.svg",
+    "static/media/first.jpg": "/portfolio/static/media/first.8daefad5fc2314969e96.jpg",
+    "static/media/gate.png": "/portfolio/static/media/gate.ce216f25606b111cdc2e.png",
+    "static/media/wills.png": "/portfolio/static/media/wills.0557302d08184d42baad.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.b2f669089d2234b07dee.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.01c8be4858daeef5ac13.png",
+    "static/media/Williams_Chigozie Iwuoha_Resume_plain.pdf": "/portfolio/static/media/Williams_Chigozie Iwuoha_Resume_plain.265d3b6698593d016aba.pdf",
+    "static/media/gateman.png": "/portfolio/static/media/gateman.28856bd7701b82eeb1e8.png",
+    "static/media/nurquest.png": "/portfolio/static/media/nurquest.7422a964ce07ff975849.png",
+    "static/media/note.png": "/portfolio/static/media/note.0d301d39e498db67ebef.png",
+    "index.html": "/portfolio/index.html",
+    "main.58b67068.css.map": "/portfolio/static/css/main.58b67068.css.map",
+    "main.7bd9cb94.js.map": "/portfolio/static/js/main.7bd9cb94.js.map",
+    "787.cda612ba.chunk.js.map": "/portfolio/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b67068.css",
+    "static/js/main.7bd9cb94.js"
+  ]
+}
